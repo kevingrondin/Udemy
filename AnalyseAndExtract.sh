@@ -11,3 +11,8 @@ done
 
 curl -L https://www.desidime.com/stores/udemy >> result.txt
 curl -L http://www.promocoupons24.com/search/label/Programming >> result.txt
+
+cat result_tmp.txt | sort | uniq -i > result.txt
+rm result_tmp.txt
+
+exit 0
