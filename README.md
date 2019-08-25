@@ -1,3 +1,3 @@
 #### Udemy
 
-Des script qui permet de trouver des cours gratuit sur udemy
+Un script qui permet de trouver des cours gratuit sur udemy
